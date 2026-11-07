@@ -1,0 +1,10 @@
+.ipynb_checkpoints/
+__pycache__/
+.env
+/content/
+data/
+*.csv
+*.tsv
+*.zip
+assignment02_*/
+*_Report_Draft.docx
